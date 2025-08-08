@@ -1,4 +1,4 @@
-# SNHUPortfolio
+# CS - 305
 Portfolio
 
 Artemis Financial is a fictional financial company that has hired the services of a fictional software engineering company, Global Rain to develop some software that they wish to use to modernize their services and make them secure. To that end, they tasked Global Rain who in turn set me on the task of helping them add a file verification step to their spring framework web application.
